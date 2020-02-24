@@ -1,0 +1,21 @@
+{
+  "name": "ebooklet",
+  "version": "1.0.0",
+  "description": "这是Gitbook生成的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIXUECHUN/Ebooklet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LIXUECHUN/Ebooklet/issues"
+  },
+  "homepage": "https://github.com/LIXUECHUN/Ebooklet#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }	
